@@ -40,7 +40,8 @@ The project is wired like to following:
 and in [Element14's blog post](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/04/space-vegetables-10-software-0-wiring-and-python-programs) you can read more about it.
 
 
-** Space Vegetables Client **
+** Space Vegetables Client ** 
+
 The Space Vegetable Client is the Raspberry PI 4 2GB with the Pimoroni's Enviro HAT. 
 
 	* Raspberry PI 4 2GB
