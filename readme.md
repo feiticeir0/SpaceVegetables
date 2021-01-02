@@ -14,3 +14,6 @@ As your rocket ship blasts into space, speeding to Mars, you have 1m3 of space t
  Luckily, your friends at the element14 Community have provided 20 successful applicants with a Raspberry Pi 4 2GB, a Pimoroni PIM487 Automation HAT, PIM486 Enviro HAT, and a PICO HAT Hacker PCB to help them prepare their 1m3 builds. You have 10 weeks to save your crew.
 
  This could be the 1m3 of space on your rocket, or it could be used to feed the masses or in an urban setting to help feed the needy during a global disaster.
+
+## Space Vegetables
+![space vegetables logo](icon_space_vegetables.png)
