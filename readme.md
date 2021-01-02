@@ -50,9 +50,8 @@ The Space Vegetable Client is the Raspberry PI 4 2GB with the Pimoroni's Enviro 
 		* TDS sensor from DFRobot
 
 Here's the posts about the Client
-
-	- [Space Vegetables - #20](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/18/space-vegetables-19-software-4-client)
-	- [TDS Sensor - #19](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/22/space-vegetables-19-software-4-client-0-tds)
+	[Space Vegetables - #20](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/18/space-vegetables-19-software-4-client)
+	[TDS Sensor - #19](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/22/space-vegetables-19-software-4-client-0-tds)
 
 **Space Vegetables Server**
 
