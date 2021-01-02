@@ -37,6 +37,20 @@ Inside each directory is a readme to direct to the Element14's blog page explain
 The project is wired like to following:
 ![Space Vegetables Wiring](Images/SpaceVegetables-wiring-v2_bb.jpg)
 
+and in [Element14's blog post](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/04/space-vegetables-10-software-0-wiring-and-python-programs) you can read more about it.
+
+
+** Space Vegetables Client **
+The Space Vegetable Client is the Raspberry PI 4 2GB with the Pimoroni's Enviro HAT. 
+
+	* Raspberry PI 4 2GB
+	* Pimoroni's Enviro HAT
+	* Arduino Pro Micro (connected to the USB port)
+		* TDS sensor from DFRobot
+
+
+
+
 You can, if you want, view all the posts made for this project.
 [Space Vegetables documents](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~tag%5Bspace+vegetables%5D)
 
