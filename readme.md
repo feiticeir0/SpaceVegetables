@@ -82,6 +82,8 @@ Nonetheless, every week an update is posted with a time lapse video from the ver
 [Space Vegetables - #13](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/11/27/space-vegetables-10-software-2-picture-and-tweeting)
 
 
+Every directory has a start_script directory. Inside each one, there's a systemd unit file used to start that script upon boot. 
+
 
 You can, if you want, view all the posts made for this project.
 [Space Vegetables documents](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~tag%5Bspace+vegetables%5D)
