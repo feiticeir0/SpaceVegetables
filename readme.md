@@ -46,6 +46,7 @@ The Space Vegetable Client is the Raspberry PI 4 2GB with the Pimoroni's Enviro 
 
 	* Raspberry PI 4 2GB
 	* Pimoroni's Enviro HAT
+	* SHT21 sensor
 	* Arduino Pro Micro (connected to the USB port)
 		* TDS sensor from DFRobot
 
@@ -55,8 +56,30 @@ Here's the posts about the Client
 
 [TDS Sensor - #19](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/22/space-vegetables-19-software-4-client-0-tds)
 
+[Space Vegetables WebServices](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/11/25/space-vegetables-9-software-1-client-and-webservices)
 
 **Space Vegetables Server**
+
+The Space Vegetables Server is a Raspberry PI 3B+ with the Pimoroni's Automation HAT MINI.
+
+	* Raspberry PI 3B+
+	* Pimoroni's Automation HAT MINI
+	* 4 channel relay
+
+Here's the posts about the server
+
+[Space Vegetables - #17](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/09/space-vegetables-15-software-3-server)
+
+**Space Vegetables Tweeter**
+![Space Vegetables Tweeter](Inages/tweeter.jpg)
+
+
+A Raspberry PI Zero W is used to take a picture every 10 minutes and post a tweet every 4 hours. In the end, all the photos will be used to produce a time lapse video. 
+
+Nonetheless, every week an update is posted with a time lapse video from the very beginning until that week. 
+
+[Space Vegetables - #13](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/11/27/space-vegetables-10-software-2-picture-and-tweeting)
+
 
 
 You can, if you want, view all the posts made for this project.
