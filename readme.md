@@ -18,10 +18,18 @@ As your rocket ship blasts into space, speeding to Mars, you have 1m3 of space t
 ## Space Vegetables
 ![space vegetables logo](icon_space_vegetables.png)
 
+The Space Vegetables project uses the Raspberry PI to monitor a hydroponics kit used to grow vegetables for the space voyage. 
+You can read my [application](Documents/SpaceVegetablesApplication.pdf) to the project.
+
+
 This is the code of my project. 
 It's split into 3 Raspberry Pi's :
 
 	* Raspberry PI 4 2GB
 	* Raspberry PI 3B+
 	* Raspberry PI Zero W
+
+
+And into a client, a server and a Twitter posting script .
+
 
