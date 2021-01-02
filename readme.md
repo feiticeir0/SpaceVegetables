@@ -71,7 +71,7 @@ Here's the posts about the server
 [Space Vegetables - #17](https://www.element14.com/community/community/design-challenges/1-meter-of-pi/blog/2020/12/09/space-vegetables-15-software-3-server)
 
 **Space Vegetables Tweeter**
-![Space Vegetables Tweeter](Inages/tweeter.jpg)
+![Space Vegetables Tweeter](Images/tweeter.jpg)
 
 
 A Raspberry PI Zero W is used to take a picture every 10 minutes and post a tweet every 4 hours. In the end, all the photos will be used to produce a time lapse video. 
