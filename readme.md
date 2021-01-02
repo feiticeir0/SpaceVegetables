@@ -20,6 +20,7 @@ As your rocket ship blasts into space, speeding to Mars, you have 1m3 of space t
 
 This is the code of my project. 
 It's split into 3 Raspberry Pi's :
+
 	* Raspberry PI 4 2GB
 	* Raspberry PI 3B+
 	* Raspberry PI Zero W
