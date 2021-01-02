@@ -3,7 +3,7 @@
 Space Vegetables is a Raspberry PI driven project for the [Element14\'s](https://www.element14.com/community/welcome) [1 Meter of Pi](https://www.element14.com/community/community/design-challenges/1-meter-of-pi?ICID=DCHmain-featured-top3challenges) design challenge. 
 
 ## 1 Meter of Pi
-![1 meter of pi logo](https://www.element14.com/community/themes/images/2020/1meterPi_profile.png)
+![1 meter of pi logo](1meterPi_profile.png)
 
 _The Challenge goes_
 
