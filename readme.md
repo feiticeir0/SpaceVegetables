@@ -3,7 +3,8 @@
 Space Vegetables is a Raspberry PI driven project for the [Element14\'s](https://www.element14.com/community/welcome) [1 Meter of Pi](https://www.element14.com/community/community/design-challenges/1-meter-of-pi?ICID=DCHmain-featured-top3challenges) design challenge. 
 
 ## 1 Meter of Pi
-![1 meter of pi logo](1meterPi_profile.png?raw=true)
+![1 meter of pi logo](https://www.element14.com/community/themes/images/2020/1meterPi_profile.png)
+
 _The Challenge goes_
 
 As your rocket ship blasts into space, speeding to Mars, you have 1m3 of space to grow your food and nutrients for the journey. Resources are limited, and you need to make it work!
