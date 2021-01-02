@@ -1,0 +1,15 @@
+[Unit]
+Description = Space Vegetables Client 
+After=systemd-networkd-wait-online.service
+Wants=systemd-networkd-wait-online.service
+
+[Service]
+User = pi
+Group = pi
+WorkingDirectory = /home/pi/SpaceVegetablesClient
+Environment = "PATH=/home/pi/SpaceVegetablesClient"
+ExecStart = /usr/bin/python3 /home/pi/SpaceVegetablesClient/SpaceVegetablesClient.py
+
+[Install]
+WantedBy = multi-user.target
+

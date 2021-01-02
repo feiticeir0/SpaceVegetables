@@ -1,0 +1,17 @@
+[Unit]
+Description = Space Vegetables twitter posting
+After = network.target
+StartLimitIntervalSec = 500
+StartLimitBurst = 5
+
+[Service]
+Restart = on-failure
+RestartSec = 5s
+User = pi
+Group = pi
+WorkingDirectory = /home/pi/SpaceVegetablesTweeter
+Environment = "PATH=/home/pi/SpaceVegetablesTweeter"
+ExecStart = /usr/bin/python3 /home/pi/SpaceVegetablesTweeter/SpaceVegetablesTweeter.py
+
+[Install]
+WantedBy = multi-user.target

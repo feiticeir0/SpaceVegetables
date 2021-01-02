@@ -1,0 +1,14 @@
+[Unit]
+Description = uWSGI instance for Space Vegetables
+After = network-online.target
+
+[Service]
+User = pi
+Group = www-data
+WorkingDirectory = /home/pi/SpaceVegetablesWebServices
+#Environment = "PATH=/home/pi/SpaceVegetablesWebServices"
+ExecStart = /usr/bin/uwsgi_python3 --ini /home/pi/SpaceVegetablesWebServices/SpaceVegetablesUWSGI.ini
+
+[Install]
+WantedBy = multi-user.target
+
