@@ -3,7 +3,7 @@
 Space Vegetables is a Raspberry PI driven project for the [Element14\'s](https://www.element14.com/community/welcome) [1 Meter of Pi](https://www.element14.com/community/community/design-challenges/1-meter-of-pi?ICID=DCHmain-featured-top3challenges) design challenge. 
 
 ## 1 Meter of Pi
-![1 meter of pi logo](1meterPi_profile.png)
+![1 meter of pi logo](Images/1meterPi_profile.png)
 
 _The Challenge goes_
 
@@ -16,7 +16,7 @@ As your rocket ship blasts into space, speeding to Mars, you have 1m3 of space t
  This could be the 1m3 of space on your rocket, or it could be used to feed the masses or in an urban setting to help feed the needy during a global disaster.
 
 ## Space Vegetables
-![space vegetables logo](icon_space_vegetables.png)
+![space vegetables logo](Images/icon_space_vegetables.png)
 
 The Space Vegetables project uses the Raspberry PI to monitor a hydroponics kit used to grow vegetables for the space voyage. 
 You can read my [application](Documents/SpaceVegetablesApplication.pdf) to the project.
@@ -30,6 +30,8 @@ It's split into 3 Raspberry Pi's :
 	* Raspberry PI Zero W
 
 
-And into a client, a server and a Twitter posting script .
+And into a client, a server and a Twitter posting script.
+
+Inside each directory is a readme to direct to the Element14's blog page explaining each . 
 
 
