@@ -2,7 +2,7 @@
 
 **Space Vegetables Tweeter**
 
-![Space Vegetables Tweeter](Images/tweeter.jpg)
+![Space Vegetables Tweeter](../Images/tweeter.jpg)
 
 
 A Raspberry PI Zero W is used to take a picture every 10 minutes and post a tweet every 4 hours. In the end, all the photos will be used to produce a time lapse video. 
