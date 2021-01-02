@@ -22,7 +22,7 @@ The Space Vegetables project uses the Raspberry PI to monitor a hydroponics kit 
 You can read my [application](Documents/SpaceVegetablesApplication.pdf) to the project.
 
 
-![greenhouse](Images/greenhose.jpg)
+![greenhouse](Images/greenhouse.jpg)
 ![greenhouse inside](Images/greenhouse_inside.jpg)
 
 
